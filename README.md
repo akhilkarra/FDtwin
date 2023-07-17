@@ -1,2 +1,2 @@
-# FDtwin-GPT4-API
-GPT4 API used to identify perishable goods shelf life.
+# FDtwin
+Set of notebooks and experiments on BLIP-2 and ChatGPT regarding the ripening times of bananas.
